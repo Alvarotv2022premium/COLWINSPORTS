@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1, COL WINSPORTS
+#EXTINF:-1,COLOMBIA
 http://mylatinotv.com:8080/get.php?username=FNmdP2U7ey&password=HZQzvGgaPe&type=m3u
 
 #EXTINF:-1, WINSPORTS PLUS1
