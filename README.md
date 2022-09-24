@@ -1,15 +1,15 @@
 #EXTM3U 
 
-#EXTINF:-1,  :COL WINSPORTS:
+#EXTINF:-1, COL WINSPORTS
 http://mylatinotv.com:8080/get.php?username=FNmdP2U7ey&password=HZQzvGgaPe&type=m3u
 
-#EXTINF:-1,; WINSPORTS PLUS1
+#EXTINF:-1, WINSPORTS PLUS1
 http://superbits.tv:80/cCqeC084/hJQjh3pJ/72215
 
 #EXTINF:-1, WINSPORTS PLUS2
 http://superbits.tv:80/cCqeC084/hJQjh3pJ/72215
 
-#EXTINF:-1,. WINSPORTS PLUS3
+#EXTINF:-1, WINSPORTS PLUS3
 http://higherpro.xyz:8080/9h2ium36/c7v8jy83/37944
 
 #EXTINF:-1, WINSPORTS 1
