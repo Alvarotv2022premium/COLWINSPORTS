@@ -1,12 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1,  COLOMBIA
-http://superbits.tv/cCqeC084/hJQjh3pJ/72215
-
-#EXTINF:-1, WINSPORTS PLUS1
-http://superbits.tv:80/cCqeC084/hJQjh3pJ/72215
-
-#EXTINF:-1 tvg-logo=" http://raw.githubusercontent.com/Alvarotv2022premium/C-n-IN3/main/Win_Sports%2B_logo.svg.png?token=GHSAT0AAAAAABZFF7QLPDJODMABRHW2ZR4EYZP5XVAW
+#EXTINF:-1, 
 WINSPORTS PLUS2
 http://superbits.tv:80/cCqeC084/hJQjh3pJ/72215
 
