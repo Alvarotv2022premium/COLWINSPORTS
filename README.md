@@ -57,6 +57,4 @@ http://2022tv.co:80/live/ahmed2022/2022ahmed/280572.ts
 #EXTINF:-1,  NTN 24
 http://superbits.tv:80/cCqeC084/hJQjh3pJ/39140
 
-#EXTINF:-1, CABLENOTICIAS
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/10228
 
