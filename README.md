@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1,  COLOMBIA
-http://mylatinotv.com:8080/get.php?username=FNmdP2U7ey&password=HZQzvGgaPe&type=m3u
+raw.githubusercontent.com/Alvarotv2022premium/C-n-IN3/Gifs/IMG-20220826-WA0013.jpg?token=GHSAT0AAAAAABZFF7QKNQPHPB5RXRY5ZQIYYZPZHYQ
 
 #EXTINF:-1, WINSPORTS PLUS1
 http://superbits.tv:80/cCqeC084/hJQjh3pJ/72215
