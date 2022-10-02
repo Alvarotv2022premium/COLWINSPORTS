@@ -1,20 +1,4 @@
 #EXTM3U 
-
-#EXTINF:-1, WINSPORTS PLUS  HD
-http://superbits.tv:80/cCqeC084/hJQjh3pJ/72215
-
-#EXTINF:-1,  WINSPORTS PLUS
-http://superbits.tv:80/cCqeC084/hJQjh3pJ/72215
-
-#EXTINF:-1, WINSPORTS PLUS FHD
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/37944
-
-#EXTINF:-1, WINSPORTS PLUS SD
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040
-
-#EXTINF:-1, WINSPORTS 
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040
-
 #EXTINF:-1, CARACOL
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
 
