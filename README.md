@@ -21,7 +21,7 @@ http://disfruta.net:80/nOZew4a/FTG5gQO/270
 http://superbits.tv:80/cCqeC084/hJQjh3pJ/39130
 
 #EXTINF:-1, TELECAFE
-http://superbits.tv:80/cCqeC084/hJQjh3pJ/72216
+http://fortv.cc:8080/jonathan/jonathan/78726
 
 #EXTINF:-1,  EL TIEMPO TV
 http://superbits.tv:80/cCqeC084/hJQjh3pJ/47923
