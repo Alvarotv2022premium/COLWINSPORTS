@@ -12,13 +12,13 @@ http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/220765
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201890
 
 #EXTINF:-1,  TELECARIBE
-http://disfruta.net:80/nOZew4a/FTG5gQO/502
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39132
 
 #EXTINF:-1,  TELEANTIOQUIA
-http://disfruta.net:80/nOZew4a/FTG5gQO/270
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39135
 
 #EXTINF:-1, TELEPACIFICO
-http://superbits.tv:80/cCqeC084/hJQjh3pJ/39130
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39130
 
 #EXTINF:-1, TELECAFE
 http://fortv.cc:8080/jonathan/jonathan/78726
