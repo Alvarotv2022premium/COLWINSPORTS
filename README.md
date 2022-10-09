@@ -2,6 +2,10 @@
 #EXTINF:-1, CARACOL
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
 
+#EXTINF:-1, WIN SPORTS PLUS
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39153
+
+
 #EXTINF:-1, CARACOL INTERNACIONAL
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39146
 
@@ -43,9 +47,6 @@ http://2022tv.co:80/live/ahmed2022/2022ahmed/280572.ts
 
 #EXTINF:-1,  NTN 24
 http://superbits.tv:80/cCqeC084/hJQjh3pJ/39140
-
-#EXTINF:-1, WIN SPORTS OLUS
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39153
 
 #EXTINF:-1, CLARO SPORTS COL
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39128
