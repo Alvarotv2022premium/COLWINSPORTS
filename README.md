@@ -3,7 +3,7 @@
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
 
 #EXTINF:-1, WIN SPORTS PLUS
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/58985
+http://gameplay.p2sweb.me:80/3091894/4952970/251392
 
 
 #EXTINF:-1, CARACOL INTERNACIONAL
