@@ -1,4 +1,5 @@
 #EXTM3U 
+
 #EXTINF:-1, CARACOL
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
 
@@ -59,9 +60,6 @@ http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39128
 
 #EXTINF:-1, DIRECTV SPORTS COL
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/72218
-
-#EXTINF:-1, DIRECTV SPORTS COL
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/72219
 
 #EXTINF:-1, HBO COL
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/45437
