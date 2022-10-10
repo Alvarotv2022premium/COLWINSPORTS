@@ -3,7 +3,7 @@
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
 
 #EXTINF:-1, WIN SPORTS PLUS
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39153
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/58985
 
 
 #EXTINF:-1, CARACOL INTERNACIONAL
@@ -81,7 +81,8 @@ http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040
 #EXTINF:-1, CITY TV COL
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/47923
 
-
+#EXTINF:-1, CANAL CAPITAL
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39153
 
 
 
