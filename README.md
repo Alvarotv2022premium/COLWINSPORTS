@@ -6,8 +6,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1, RCN
 http://higherpro.xyz:8080/9h2ium36/c7v8jy83/10251
 
-#EXTINF:-1, WIN SPORTS PLUS
-http://gameplay.p2sweb.me:80/3091894/4952970/251392
+#EXTINF:-1, WINSPORTS PLUS
+http://superbits.tv:2095/cCqeC084/hJQjh3pJ/58985
 
 #EXTINF:-1, WIN SPORTS COL
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040
