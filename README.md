@@ -12,7 +12,7 @@ http://superbits.tv:2095/cCqeC084/hJQjh3pJ/58985
 #EXTINF:-1, WIN SPORTS HD
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040
 
-#EXTINF:-1, CARACOL INTERBHD
+#EXTINF:-1, CARACOL INTER HD
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39146
 
 
