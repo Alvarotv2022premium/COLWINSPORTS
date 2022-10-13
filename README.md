@@ -146,16 +146,16 @@ http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/175
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/147
 
 #EXTINF:-1, GOLDEN CHANNEL
-http://megatitan.net:8080/TitANeSS123Llor4321/EBUgT6DDsxQE/1867
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/45784
 
 #EXTINF:-1, GOLDEN PREMIER
-http://megatitan.net:8080/TitANeSS123Llor4321/EBUgT6DDsxQE/1798
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/47866
 
 #EXTINF:-1, GOLDEN PLUS
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/116
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/45786
 
 #EXTINF:-1, GOLDEN EDGE
-http://megatitan.net:8080/TitANeSS123Llor4321/EBUgT6DDsxQE/24126gfhsgdfghsfghg/dfghsfghgfhsfghsfghsgfhsgfhsfghfsghsgfhsgdfghsfghgfhsfghsfghsgfhsg
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/45785
 
 #EXTINF:-1, SPACE
 http://higherpro.xyz:8080/9h2ium36/c7v8jy83/13780
