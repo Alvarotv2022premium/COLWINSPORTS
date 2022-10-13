@@ -126,29 +126,6 @@ http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39153
 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/643
 
-#EXTINF:-1,HBO 
-http://superbits.tv:2095/f0htWYB6/fcGD1J3j/45437
-
-#EXTINF:-1,HBO 2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/710
-
-#EXTINF:-1,HBO PLUS
-http://superbits.tv:80/cCqeC084/hJQjh3pJ/45440
-
-#EXTINF:-1,HBO SIGNATURE
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201344
-
-#EXTINF:-1,HBO POP
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/218130
-
-#EXTINF:-1,HBO FAMILY
-http://superbits.tv:80/cCqeC084/hJQjh3pJ/45439
-
-#EXTINF:-1,HBO EXTREME
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/218150
-
-#EXTINF:-1,HBO MUNDI
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/164
 
 #EXTINF:-1,UNIVERSAL CRIME
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701
