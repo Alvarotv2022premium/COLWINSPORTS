@@ -55,6 +55,41 @@ http://gameplay.p2sweb.me:80/3091894/4952970/251396
 #EXTINF:-1,  SENAL COLOMBIA HD
 http://gameplay.p2sweb.me:80/3091894/4952970/251387
 
+#EXTINF:-1, DISCOVERY CHANNEL 
+http://higherpro.xyz:8080/9h2ium36/c7v8jy83/10278
+
+#EXTINF:-1, DISCOVERY ESP 
+http://superbits.tv:80/cCqeC084/hJQjh3pJ/48706
+
+#EXTINF:-1, INVESTIGATION D 
+http://higherpro.xyz:8080/9h2ium36/c7v8jy83/10318
+
+#EXTINF:-1, ANIMAL PLANET 
+http://higherpro.xyz:8080/9h2ium36/c7v8jy83/10273
+
+#EXTINF:-1, DISCOVEEI SCIENCE 
+http://higherpro.xyz:8080/9h2ium36/c7v8jy83/10290
+
+#EXTINF:-1, DISCOVERY WORLD 
+http://higherpro.xyz:8080/9h2ium36/c7v8jy83/10299
+
+#EXTINF:-1, HISTORY 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/711
+
+#EXTINF:-1, HISTORIA 
+http://superbits.tv:80/cCqeC084/hJQjh3pJ/48735
+
+#EXTINF:-1, HISTORY 2 
+http://superbits.tv:80/cCqeC084/hJQjh3pJ/45801
+
+#EXTINF:-1, NAT GEO 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/716
+
+#EXTINF:-1, NAT GEO MUNDO 
+http://superbits.tv:80/cCqeC084/hJQjh3pJ/133886
+
+
+
 #EXTINF:-1, CLARO SPORTS COL
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39128
 
