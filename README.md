@@ -1,13 +1,14 @@
 #EXTM3U 
 
+
+#EXTINF:-1, WINSPORTS PLUS HD
+http://superbits.tv:2095/cCqeC084/hJQjh3pJ/58985
+
 #EXTINF:-1,  CANAL CARACOL
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
 
 #EXTINF:-1, CANAL RCN
 http://higherpro.xyz:8080/9h2ium36/c7v8jy83/10251
-
-#EXTINF:-1, WINSPORTS PLUS HD
-http://superbits.tv:2095/cCqeC084/hJQjh3pJ/58985
 
 #EXTINF:-1, WIN SPORTS HD
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040
