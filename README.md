@@ -37,34 +37,34 @@ http://superbits.tv:2095/b8xxgZfq/dnQng78H/47923
 http://superbits.tv:2095/b8xxgZfq/dnQng78H/72224
 
 #EXTINF:-1,  NTN 24 HD
-http://superbits.tv:80/cCqeC084/hJQjh3pJ/39140
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/39140
 
 #EXTINF:-1,  RCN NOVELAS HD
-http://superbits.tv:80/cCqeC084/hJQjh3pJ/47916
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/47916
 
 #EXTINF:-1,  CALITV HD
-http://gameplay.p2sweb.me:80/3091894/4952970/251396
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/72223
 
 #EXTINF:-1,  SENAL COLOMBIA HD
-http://gameplay.p2sweb.me:80/3091894/4952970/251387
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/39145
 
 #EXTINF:-1, DISCOVERY CHANNEL 
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/218208
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/99041
 
 #EXTINF:-1, DISCOVERY ESP 
 http://superbits.tv:80/cCqeC084/hJQjh3pJ/48706
 
 #EXTINF:-1, INVESTIGATION D 
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/218227
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/99573
 
 #EXTINF:-1, ANIMAL PLANET 
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/10273
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/99601
 
 #EXTINF:-1, DISCOVEEI SCIENCE 
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/10290
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/45719
 
 #EXTINF:-1, DISCOVERY WORLD 
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/10299
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/99570
 
 #EXTINF:-1, HISTORY 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/711
