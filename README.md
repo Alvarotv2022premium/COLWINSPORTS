@@ -73,33 +73,25 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://superbits.tv:80/cCqeC084/hJQjh3pJ/48735
 
 #EXTINF:-1, HISTORY 2 
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/218223
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/99537
 
 #EXTINF:-1, NAT GEO 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/716
 
 #EXTINF:-1, NAT GEO MUNDO 
-http://superbits.tv:80/cCqeC084/hJQjh3pJ/133886
-
-
-
-#EXTINF:-1, CLARO SPORTS COL
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39128
-
-#EXTINF:-1, DIRECTV SPORTS COL
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/72218
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/133886
 
 #EXTINF:-1, HBO COL
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/218224
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/45437
 
 #EXTINF:-1, HBO2 COL
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/45438
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/45438
 
 #EXTINF:-1, HBO FAMILY COL
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/45439
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/45439
 
 #EXTINF:-1, HBO PLUS COL
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/218225
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/45440
 
 #EXTINF:-1, LA CALLE HD COL HD
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/47924
