@@ -19,22 +19,22 @@ http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/220765
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201890
 
 #EXTINF:-1,  TELECARIBE HD
-http://gameplay.p2sweb.me:80/3091894/4952970/251389
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/39132
 
 #EXTINF:-1,  TELEANTIOQUIA HD
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39135
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/39135
 
 #EXTINF:-1, TELEPACIFICO HD
-http://gameplay.p2sweb.me:80/3091894/4952970/251390
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/39130
 
 #EXTINF:-1, TELECAFE HD
-http://gameplay.p2sweb.me:80/3091894/4952970/251388
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/39134
 
 #EXTINF:-1,  EL TIEMPO TV HD
-http://superbits.tv:80/cCqeC084/hJQjh3pJ/47923
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/47923
 
 #EXTINF:-1,  CABLENOTICIAS HD
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/72212
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/72224
 
 #EXTINF:-1,  NTN 24 HD
 http://superbits.tv:80/cCqeC084/hJQjh3pJ/39140
