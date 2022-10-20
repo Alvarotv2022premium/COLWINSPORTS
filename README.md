@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1,  CANAL CARACOL
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/39149
 
 #EXTINF:-1, CANAL RCN
 http://higherpro.xyz:8080/9h2ium36/c7v8jy83/10251
