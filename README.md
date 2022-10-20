@@ -106,7 +106,7 @@ http://superbits.tv:2095/b8xxgZfq/dnQng78H/39145
 http://superbits.tv:2095/b8xxgZfq/dnQng78H/39153
 
 #EXTINF:-1, SONY MOVIE   
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/218235
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/45853
 
 #EXTINF:-1,UNIVERSAL CRIME
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701
@@ -121,22 +121,22 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/700
 
 #EXTINF:-1, UNIVERSAL CHANNEL
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/218236
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/45925
 
 #EXTINF:-1, UNIVERSAL STUDIO
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/147
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/45872
 
 #EXTINF:-1, GOLDEN CHANNEL
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/45784
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/45784
 
 #EXTINF:-1, GOLDEN PREMIER
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/47866
 
 #EXTINF:-1, GOLDEN PLUS
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/45786
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/45786
 
 #EXTINF:-1, GOLDEN EDGE
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/218221
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/45785
 
 #EXTINF:-1, SPACE
 http://higherpro.xyz:8080/9h2ium36/c7v8jy83/13780
