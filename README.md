@@ -16,7 +16,7 @@ http://superbits.tv:2095/b8xxgZfq/dnQng78H/133820
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/220765
 
 #EXTINF:-1, CANAL UNO HD
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201890
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/72211
 
 #EXTINF:-1,  TELECARIBE HD
 http://superbits.tv:2095/b8xxgZfq/dnQng78H/39132
@@ -94,17 +94,16 @@ http://superbits.tv:2095/b8xxgZfq/dnQng78H/45439
 http://superbits.tv:2095/b8xxgZfq/dnQng78H/45440
 
 #EXTINF:-1, LA CALLE HD COL HD
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/47924
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/47924
 
 #EXTINF:-1, TELE AMIGA COL HD
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39131
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/39136
 
 #EXTINF:-1, CITY TV COL HD
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/47923
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/39145
 
 #EXTINF:-1, CANAL CAPITAL HD
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39153
-
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/39153
 
 #EXTINF:-1, SONY MOVIE   
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/218235
