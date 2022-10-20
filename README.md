@@ -130,7 +130,7 @@ http://superbits.tv:2095/b8xxgZfq/dnQng78H/45872
 http://superbits.tv:2095/b8xxgZfq/dnQng78H/45784
 
 #EXTINF:-1, GOLDEN PREMIER
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/47866
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/47866
 
 #EXTINF:-1, GOLDEN PLUS
 http://superbits.tv:2095/b8xxgZfq/dnQng78H/45786
@@ -139,22 +139,22 @@ http://superbits.tv:2095/b8xxgZfq/dnQng78H/45786
 http://superbits.tv:2095/b8xxgZfq/dnQng78H/45785
 
 #EXTINF:-1, SPACE
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/13780
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/99100
 
 #EXTINF:-1,  CINECANAL
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/89
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/45691
 
 #EXTINF:-1, CINEMAX
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/93
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/45693
 
 #EXTINF:-1,  TNT
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/218233
 
 #EXTINF:-1,  A E
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/218197
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/45908
 
 #EXTINF:-1,  AXN
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/218200
+http://superbits.tv:2095/b8xxgZfq/dnQng78H/45672
 
 
 
