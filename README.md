@@ -1,13 +1,13 @@
 #EXTM3U 
 
 #EXTINF:-1,  CANAL CARACOL
-http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/39149
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/39148
 
 #EXTINF:-1, CANAL RCN
-http://higherpro.xyz:8080/9h2ium36/c7v8jy83/10251
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/35731
 
 #EXTINF:-1, CARACOL INTER HD
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/39146
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/39146
 
 #EXTINF:-1, RCN NUESTRA TELE HD
 http://superbits.tv:2095/b8xxgZfq/dnQng78H/133820
@@ -16,7 +16,7 @@ http://superbits.tv:2095/b8xxgZfq/dnQng78H/133820
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/220765
 
 #EXTINF:-1, CANAL UNO HD
-http://superbits.tv:2095/b8xxgZfq/dnQng78H/72211
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/72211
 
 #EXTINF:-1,  TELECARIBE HD
 http://superbits.tv:2095/b8xxgZfq/dnQng78H/39132
